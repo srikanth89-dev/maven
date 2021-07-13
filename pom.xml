@@ -19,7 +19,7 @@
       <groupId>org.teavm</groupId>
       <artifactId>teavm-classlib</artifactId>
       <version>${teavm.version}</version>
-      <scope>provideeeed</scope>
+      <scope>provided</scope>
     </dependency>
 
     <!-- JavaScriptObjects (JSO) - a JavaScript binding for TeaVM -->
